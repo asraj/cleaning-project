@@ -1,0 +1,4 @@
+subject: The subject of the experiment. Range from 1 to 30
+activity: The activity measured by the experiment provided in the 'activity_label.txt' file such as WALKING, LAYING
+variable: The 561 variable name provided in the 'features.txt'
+mean: The average value for a particular subject, activity and variable combination
